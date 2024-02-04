@@ -9,6 +9,11 @@ ul {
 li{
     list-style: none;
 }
+
+a{
+    text-decoration: none;
+}
+
 .gallery {
     display: flex;
     flex-direction: row;
